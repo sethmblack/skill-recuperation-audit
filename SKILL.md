@@ -4,7 +4,7 @@ description: Assess how radical ideas, movements, or critiques have been (or wil
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4810
+  version: 1.0.4811
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - recuperation-audit
